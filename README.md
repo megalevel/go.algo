@@ -7,4 +7,5 @@ Implemented as part of the GO.ALGO hackathon
 
 Ссылка на проект в Google Colab
 Google Colab link:
+
 https://colab.research.google.com/drive/1Noi_qrxj8NM4DAzsXqhLZ8ulKmUkvihe?usp=sharing
