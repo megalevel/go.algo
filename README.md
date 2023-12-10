@@ -12,3 +12,7 @@ Implemented as part of the GO.ALGO hackathon
 Google Colab link:
 
 https://colab.research.google.com/drive/1Noi_qrxj8NM4DAzsXqhLZ8ulKmUkvihe?usp=sharing
+
+Сервис для инвесторов, с расчетом корреляций между акциями:
+
+http://findcorr.ru/
